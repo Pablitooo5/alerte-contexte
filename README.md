@@ -62,4 +62,6 @@ Rien n'est envoyé sur Internet. Tout tient dans `~/.claude/alerte-contexte` et 
 Projet perso et non officiel, sans lien avec Anthropic. « Claude » et « Claude Code » sont des marques d'Anthropic.
 Licence MIT : tu peux le modifier et le partager librement.
 
-Du même auteur : [Écran Cassé](https://github.com/Pablitooo5/ecran-casse), un bonhomme qui casse ton écran quand Claude t'a répondu et que tu scrolles sur ton téléphone.
+Du même auteur :
+- [Écran Cassé](https://github.com/Pablitooo5/ecran-casse) : un bonhomme casse ton écran quand Claude t'a répondu et que tu scrolles sur ton téléphone.
+- [Le Videur](https://github.com/Pablitooo5/le-videur) : un videur arrête Claude avant une action dangereuse et te demande ton accord.
